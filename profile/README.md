@@ -1,3 +1,3 @@
-# The [Table of Contents here](https://sickkidsca.sharepoint.com/:x:/s/ibrahimlabworkspace/EbOJNiNYRwZOgHsBEGytyuQBQ_sIiVk6KyS2lSDUnKTBGg?e=VAA3Dx) covers content below.
+Dr. George Ibrahim's lab @ SickKids is a multi-disciplinary team of clinicians, scientists, and engineers focused on developing cutting-edge, precision medicine for the surgical treatment of medically intractable epilepsy, spasticity, and functional disorders in children.
 
-(If you have permission.)
+(Recent publications)[https://pubmed.ncbi.nlm.nih.gov/?term=Ibrahim%2C+George+M%5BAuthor%5D]
